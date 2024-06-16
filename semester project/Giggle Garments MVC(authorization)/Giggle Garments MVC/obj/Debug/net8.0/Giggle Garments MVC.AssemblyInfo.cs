@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Giggle Garments MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c75b3694fb51e1353093b8494974fff16f72b24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Giggle Garments MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Giggle Garments MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

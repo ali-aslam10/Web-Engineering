@@ -3,10 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\documents\\github\\web-engineering\\semester project\\giggle garments mvc(final submission)\\giggle garments mvc\\models\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\documents\\github\\web-engineering\\semester project\\giggle garments mvc(final submission)\\giggle garments mvc\\models\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\orderedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\documents\\github\\web-engineering\\semester project\\giggle garments mvc(final submission)\\giggle garments mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\addProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\productRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -51,12 +69,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\addProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -88,11 +100,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:28:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\Giggle Garments MVC\\Models\\OrderedProduct.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\OrderedProduct.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\Giggle Garments MVC\\Models\\OrderedProduct.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\OrderedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:28:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\Giggle Garments MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Web-Engineering\\semester project\\Giggle Garments MVC(Final Submission)\\Giggle Garments MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:28:15.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Girls.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Category\\Girls.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Category\\Girls.cshtml",
@@ -104,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "_ProductPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Shared\\_ProductPartial.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Shared\\_ProductPartial.cshtml",
@@ -116,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UpdateStock.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\UpdateStock.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\UpdateStock.cshtml",
@@ -128,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "UpdateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\UpdateProduct.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\UpdateProduct.cshtml",
@@ -140,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Checkoutform.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Checkout\\Checkoutform.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Checkout\\Checkoutform.cshtml",
@@ -152,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Home\\Index.cshtml",
@@ -164,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "specific.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Category\\specific.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Category\\specific.cshtml",
@@ -176,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "StockRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\StockRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\StockRepository.cs",
@@ -188,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\GenericRepository.cs",
@@ -200,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "CheckoutRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\CheckoutRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\CheckoutRepository.cs",
@@ -212,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\OrderController.cs",
@@ -223,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "CustomerCareController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CustomerCareController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CustomerCareController.cs",
@@ -235,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "CheckoutController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CheckoutController.cs",
@@ -247,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\CategoryController.cs",
@@ -259,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "productRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\productRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\productRepository.cs",
@@ -270,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\ProductController.cs",
@@ -281,31 +332,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "addProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\addProduct.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\addProduct.cshtml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\addProduct.cshtml",
               "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\addProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-01T14:03:52.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\appsettings.json",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\appsettings.json",
               "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-01T14:02:54.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -317,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Home\\Search.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Home\\Search.cshtml",
@@ -329,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Boys.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Category\\Boys.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Category\\Boys.cshtml",
@@ -341,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\HomeController.cs",
@@ -353,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "_CustomLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Shared\\_CustomLayout.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Shared\\_CustomLayout.cshtml",
@@ -365,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "viewCart.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Order\\viewCart.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Order\\viewCart.cshtml",
@@ -377,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "receipt.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Checkout\\receipt.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Checkout\\receipt.cshtml",
@@ -389,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "CartRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
