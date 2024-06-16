@@ -1,0 +1,97 @@
+.logo {
+    width: 90px;
+    height: 90px;
+     
+}
+@media screen  and (max-width:768px) {
+.logo{
+    display: none;
+}
+        
+}
+.imgcontent{
+    -webkit-text-stroke: 2px black;
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 40%; 
+    font-weight: 700;
+    color:floralwhite 
+    
+
+}
+.navbar a
+{
+    font-family:'Courier New', Courier, monospace;
+}
+.navbar a:hover
+{
+    color: rgb(255, 8, 8);
+    cursor:pointer
+}
+.navbar a:active
+{
+    color: blue;
+}
+.belowsm ul,.abovesm ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+-webkit-appearance: none; 
+}
+.belowsm{
+    display: none;
+}
+.belowsm a{
+text-decoration: none;
+color: black;
+}
+.belowsm li{
+margin-bottom: 10px;
+}
+.belowsm a:hover{
+text-decoration: underline;
+}
+
+.abovesm a{
+text-decoration: none;
+color: black;
+}
+.abovesm li{
+margin-bottom: 10px;
+}
+.abovesm a:hover{
+text-decoration: underline;
+}
+@media screen and (max-width:600px){
+.belowsm{
+    display:block;
+}
+.abovesm{
+    display: none;
+}
+}
+
+/* for forms */
+.form-control:focus {
+    border-color: #230123;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 1px 8px rgba(164, 186, 25, 0.5);
+}
+.receipt
+{
+    display: none;
+}
+@media screen and (max-width:576px) {
+    .receipt-sm
+    {
+        display:none;
+        
+    }
+    .receipt
+    {
+        display: block;
+    }
+}

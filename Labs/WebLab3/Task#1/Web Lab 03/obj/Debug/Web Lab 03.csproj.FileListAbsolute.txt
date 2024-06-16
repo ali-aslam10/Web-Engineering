@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\bin\Debug\Web Lab 03.exe.config
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\bin\Debug\Web Lab 03.exe
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\bin\Debug\Web Lab 03.pdb
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\obj\Debug\Web Lab 03.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\obj\Debug\Web Lab 03.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\obj\Debug\Web Lab 03.exe
+C:\Users\HP\source\repos\Web Lab 03\Web Lab 03\obj\Debug\Web Lab 03.pdb

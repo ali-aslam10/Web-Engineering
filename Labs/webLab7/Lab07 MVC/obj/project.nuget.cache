@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBbrGhnSpIJ92LOT3q2c8aCjYHI8EpUhJjWoQyZ5JV8iFTxIj07Y+y5hsB4mQ3x6P59aBpFobwGc/5O+s5Lyew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab07 MVC\\Lab07 MVC\\Lab07 MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

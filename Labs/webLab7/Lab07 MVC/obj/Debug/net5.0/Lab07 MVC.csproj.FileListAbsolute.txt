@@ -1,0 +1,89 @@
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.exe
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.deps.json
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.runtimeconfig.json
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.dll
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\ref\Lab07 MVC.dll
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.pdb
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.Views.dll
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.Views.pdb
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\Lab07 MVC.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\Lab07 MVC.StaticWebAssets.xml
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\scopedcss\bundle\Lab07 MVC.styles.css
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.TagHelpers.input.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.TagHelpers.output.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorCoreGenerate.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorTargetAssemblyInfo.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.Views.pdb
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.dll
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\ref\Lab07 MVC.dll
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.pdb
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.genruntimeconfig.cache
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.csproj.CopyComplete
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\User\signin.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\User\register.cshtml.g.cs
+C:\Users\HP\source\repos\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.StaticWebAssets.xml
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.exe
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.deps.json
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.runtimeconfig.json
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.dll
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.pdb
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.Views.dll
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\bin\Debug\net5.0\Lab07 MVC.Views.pdb
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.AssemblyInfo.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.TagHelpers.input.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.TagHelpers.output.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorCoreGenerate.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\User\register.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\User\signin.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.RazorTargetAssemblyInfo.cs
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.Views.pdb
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\scopedcss\bundle\Lab07 MVC.styles.css
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\Lab07 MVC.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\Lab07 MVC.StaticWebAssets.Pack.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\msbuild.Lab07 MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\msbuild.build.Lab07 MVC.props
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Lab07 MVC.props
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Lab07 MVC.props
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.dll
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\refint\Lab07 MVC.dll
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.pdb
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.genruntimeconfig.cache
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\ref\Lab07 MVC.dll
+C:\Users\HP\source\repos\Web Engineering\Lab07 MVC\Lab07 MVC\obj\Debug\net5.0\Lab07 MVC.csproj.Up2Date

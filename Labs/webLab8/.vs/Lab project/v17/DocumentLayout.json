@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B546EC22-71B9-42C3-99B5-7007141C66F6}|Lab project\\Lab project.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project\\lab project\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B546EC22-71B9-42C3-99B5-7007141C66F6}|Lab project\\Lab project.csproj|solutionrelative:lab project\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B546EC22-71B9-42C3-99B5-7007141C66F6}|Lab project\\Lab project.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project\\lab project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B546EC22-71B9-42C3-99B5-7007141C66F6}|Lab project\\Lab project.csproj|solutionrelative:lab project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project\\Lab project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Lab project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project\\Lab project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Lab project\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T07:09:17.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project\\Lab project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project\\Lab project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T15:28:14.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

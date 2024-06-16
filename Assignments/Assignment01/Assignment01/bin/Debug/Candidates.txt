@@ -1,0 +1,2 @@
+{"CandidateId":1,"Name":"saif","Party":"PTI","Votes":0}
+{"CandidateId":2,"Name":"ali","Party":"MQM","Votes":0}

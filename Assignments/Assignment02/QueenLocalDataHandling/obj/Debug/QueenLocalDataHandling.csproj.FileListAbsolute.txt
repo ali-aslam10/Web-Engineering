@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\bin\Debug\QueenLocalDataHandling.exe.config
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\bin\Debug\QueenLocalDataHandling.exe
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\bin\Debug\QueenLocalDataHandling.pdb
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\obj\Debug\QueenLocalDataHandling.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\obj\Debug\QueenLocalDataHandling.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\obj\Debug\QueenLocalDataHandling.exe
+C:\Users\HP\source\repos\QueenLocalDataHandling\QueenLocalDataHandling\obj\Debug\QueenLocalDataHandling.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\bin\Debug\Web Assignment 3.exe.config
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\bin\Debug\Web Assignment 3.exe
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\bin\Debug\Web Assignment 3.pdb
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\obj\Debug\Web Assignment 3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\obj\Debug\Web Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\obj\Debug\Web Assignment 3.exe
+C:\Users\HP\source\repos\Web Assignment 3\Web Assignment 3\obj\Debug\Web Assignment 3.pdb

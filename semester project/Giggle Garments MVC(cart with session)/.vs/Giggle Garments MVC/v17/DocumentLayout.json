@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\models\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\views\\order\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\views\\order\\viewcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\models\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\models\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|c:\\users\\hp\\source\\repos\\giggle garments mvc\\giggle garments mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3AC340C7-EE1F-48AF-AB36-EFDDA5B6E341}|Giggle Garments MVC\\Giggle Garments MVC.csproj|solutionrelative:giggle garments mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:02:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAASwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:02:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:59:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Stock.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:59:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Program.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:49:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "Giggle Garments MVC\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:10:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Giggle Garments MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:05:41.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:05:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "productRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\productRepository.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\Repositories\\productRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\Repositories\\productRepository.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\Repositories\\productRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:02:05.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_CustomLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Views\\Shared\\_CustomLayout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Shared\\_CustomLayout.cshtml",
+              "RelativeToolTip": "Giggle Garments MVC\\Views\\Shared\\_CustomLayout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T07:40:17.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Giggle Garments MVC\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T07:39:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Giggle Garments MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-20T07:39:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Models\\CartItem.cs",
+              "RelativeToolTip": "Giggle Garments MVC\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:25:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "viewCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Order\\viewCart.cshtml",
+              "RelativeDocumentMoniker": "Giggle Garments MVC\\Views\\Order\\viewCart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Giggle Garments MVC\\Giggle Garments MVC\\Views\\Order\\viewCart.cshtml",
+              "RelativeToolTip": "Giggle Garments MVC\\Views\\Order\\viewCart.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T05:22:47.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

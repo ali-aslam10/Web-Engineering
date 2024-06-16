@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "_CustomLayout";
+}
+<title>Giggle Garments-Newborn</title>
+@model List<Product>;
+<div class="container mt-4">
+    <div class="row justify-content-evenly gy-3">
+        @foreach (var p in Model)
+        {
+            <div class="card border-0" style="width: 18rem;">
+                <a asp-controller="Category" asp-action="specific" asp-route-id="@p.prod_Id">
+                    <img src="@p.imagePath.Substring(p.imagePath.IndexOf("wwwroot")).Replace("wwwroot","")" class="card-img-top" alt="Product image">
+                    <div class="card-body text-center">
+                        <p class="card-title fw-medium text-capitalize">@p.name <br /> <span>(Product ID: @p.prod_Id)</span></p>
+                        <h6 class="card-subtitle mb-2 text-body-secondary">Rs.@string.Format("{0:N2}", p.price)</h6>
+                    </div>
+                </a>
+            </div>
+
+        }
+    </div>
+</div>

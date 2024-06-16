@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link href="~/css/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/bootstrap-icons-1.11.3/font/bootstrap-icons.min.css">
+    <title>Lab06</title>
+    <style>
+        input[type="file"] {
+            display: none;
+        }
+
+        .custom-file-upload {
+            border: 1px solid #ccc;
+            display: inline-block;
+            padding: 6px 12px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-white border-bottom ">
+        <div class="container-fluid">
+            <a class="navbar-brand text-primary fw-bold" href="#">Gradschemer</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-3">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/Home/index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#price">Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/User/signin">
+                            <button type="button" class="btn btn-outline-primary">Log In</button>
+                        </a>
+                    </li>
+                    <li>
+                        <input class="btn btn-primary" type="button" value="Try your first cover letter for free">
+                    </li>
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+    @RenderBody()
+    <script src="~/js/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/myjs.js"></script>
+</body>
+</html>

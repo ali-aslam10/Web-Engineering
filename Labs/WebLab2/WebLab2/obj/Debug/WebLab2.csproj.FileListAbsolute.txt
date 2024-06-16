@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\bin\Debug\WebLab2.exe.config
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\bin\Debug\WebLab2.exe
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\bin\Debug\WebLab2.pdb
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\obj\Debug\WebLab2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\obj\Debug\WebLab2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\obj\Debug\WebLab2.exe
+C:\Users\HP\source\repos\C-Sharp\WebLab2\WebLab2\obj\Debug\WebLab2.pdb

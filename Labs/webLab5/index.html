@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Form Design</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <div class="welcome-message">
+        <h1>Welcome SE/IT Fall 21</h1>
+    </div>
+    <form id="desktopForm">
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Name</label>
+                <input class="item" type="text" placeholder="Name" name="name">
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Phone Number</label>
+                <input class="item" type="text" placeholder="Phone Number" name="name">
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Email Address</label>
+                <input class="item" type="text" placeholder="Email Address" name="name">
+            </div>
+        </fieldset>
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Skin Type</label>
+                <select class="item" name="skin-type">
+                    <option value="normal">Normal</option>
+                    <option value="dry">Dry</option>
+                    <option value="oily">Oily</option>
+                    <option value="combination">Combination</option>
+                    <option value="sensitive">Sensitive</option>
+                </select>
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Hair Type</label>
+                <select class="item" name="hair-type">
+                    <option value="straight">Straight</option>
+                    <option value="wavy">Wavy</option>
+                    <option value="curly">Curly</option>
+                    <option value="kinky">Kinky</option>
+                </select>
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Product Type</label>
+                <select class="item" name="product-type">
+                    <option value="makeup">Makeup</option>
+                    <option value="skincare">Skincare</option>
+                    <option value="haircare">Haircare</option>
+                </select>
+            </div>
+        </fieldset>
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Address</label>
+                <input class="item" type="text" placeholder="Address" name="address">
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Current Skin Concerns</label>
+                <input class="item" type="text" placeholder="Current Skin Concerns" name="skin-concerns">
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Current Hair Concerns</label>
+                <input class="item" type="text" placeholder="Current Hair Concerns" name="hair-concerns">
+            </div>
+
+        </fieldset>
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Favourite Brands</label>
+                <textarea class="item" placeholder="Favorite Brands" name="favorite-brands"></textarea>
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Allergies</label>
+                <textarea class="item" placeholder="Allergies (if any)" name="allergies"></textarea>
+            </div>
+        </fieldset>
+        <button type="submit" class="btn">Submit</button>
+    </form>
+    <form id="tabletForm" style="padding-top: 60px;">
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Patient Name</label>
+                <input class="item" type="text" placeholder="Patient Name" name="name">
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Patient Email Address</label>
+                <input class="item" type="text" placeholder="Patient Email Address" name="email">
+            </div>
+        </fieldset>
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Blood Group</label>
+                <select class="item" name="skin-type">
+                    <option value="dry">A+</option>
+                    <option value="oily">B+</option>
+                    <option value="combination">O+</option>
+                    <option value="combination">O-</option>
+                </select>
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Gender</label>
+                <select class="item" name="hair-type">
+                    <option value="wavy">Male</option>
+                    <option value="curly">Female</option>
+                </select>
+            </div>
+        </fieldset>
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Patient Address</label>
+                <input class="item" type="text" placeholder="Patient Address" name="address">
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Weight</label>
+                <select class="item" name="product-type">
+                    <option value="skincare">10-20kg</option>
+                    <option value="haircare">20-40kg</option>
+                    <option value="haircare">40-70kg</option>
+                    <option value="haircare">Greater than 70kg</option>
+                </select>
+            </div>
+        </fieldset>
+        <fieldset class="form-group">
+            <div class="labelWithInput">
+                <label class="lbl">Current Medications</label>
+                <textarea class="item" placeholder="Current Medications" name="favorite-brands"></textarea>
+            </div>
+            <div class="labelWithInput">
+                <label class="lbl">Family Medical History</label>
+                <textarea class="item" placeholder="Family Medical History" name="allergies"></textarea>
+            </div>
+        </fieldset>
+        <button type="submit" class="btn">Submit</button>
+    </form>
+
+    <form id="mobileForm" style="padding-top: 60px;">
+        <div class="mobileInputWithLabel">
+            <label for="brand">Brand:</label>
+            <input class="inputMobile" type="text" name="brand" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="model">Model:</label>
+            <input class="inputMobile" type="text" id="model" name="model" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="release_year">Release Year:</label>
+            <input class="inputMobile" type="number" id="release_year" name="release_year" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="screen_size">Screen Size (in inches):</label>
+            <input class="inputMobile" type="number" id="screen_size" name="screen_size" step="0.1" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="ram">RAM (in GB):</label>
+            <input class="inputMobile" type="number" id="ram" name="ram" min="1" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="storage">Storage (in GB):</label>
+            <input class="inputMobile" type="number" id="storage" name="storage" min="1" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="camera">Camera (in MP):</label>
+            <input class="inputMobile" type="number" id="camera" name="camera" min="1" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="battery">Battery Capacity (in mAh):</label>
+            <input class="inputMobile" type="number" id="battery" name="battery" min="500" required>
+        </div>
+
+        <div class="mobileInputWithLabel">
+            <label for="price">Price:</label>
+            <input class="inputMobile" type="text" id="price" name="price" required>
+        </div>
+        <button type="submit" class="btn">Submit</button>
+    </form>
+</body>
+
+</html>

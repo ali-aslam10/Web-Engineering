@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\models\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\models\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\views\\departments\\se.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\views\\departments\\se.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\views\\departments\\cs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\views\\departments\\cs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\views\\departments\\it.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\views\\departments\\it.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|c:\\users\\hp\\source\\repos\\web engineering\\lab project 2\\lab project 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18FEC6B-4C23-4E88-BFA8-2F13F0D452E9}|Lab project 2\\Lab project 2.csproj|solutionrelative:lab project 2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Program.cs",
+              "RelativeToolTip": "Lab project 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:24:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:24:12.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAuwGUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:11:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Models\\MyUser.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Models\\MyUser.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Models\\MyUser.cs",
+              "RelativeToolTip": "Lab project 2\\Models\\MyUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:06:16.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:14:59.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Lab project 2\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:40:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:03:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab project 2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab project 2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:09:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab project 2\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\appsettings.json",
+              "RelativeToolTip": "Lab project 2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T10:08:16.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Lab project 2\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:02:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Lab project 2\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Lab project 2\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T09:58:58.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IT.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Departments\\IT.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Views\\Departments\\IT.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Departments\\IT.cshtml",
+              "RelativeToolTip": "Lab project 2\\Views\\Departments\\IT.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:51:26.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CS.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Departments\\CS.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Views\\Departments\\CS.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Departments\\CS.cshtml",
+              "RelativeToolTip": "Lab project 2\\Views\\Departments\\CS.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:50:43.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SE.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Departments\\SE.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Views\\Departments\\SE.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Departments\\SE.cshtml",
+              "RelativeToolTip": "Lab project 2\\Views\\Departments\\SE.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:42:04.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab project 2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:30:47.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAmwP8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-16T09:29:22.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab project 2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Web Engineering\\Lab project 2\\Lab project 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab project 2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:26:53.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

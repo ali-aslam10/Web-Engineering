@@ -1,0 +1,101 @@
+﻿@{
+    Layout = "_CustomLayout";
+}
+@model List<CartItem>
+<title>Giggle Garments-Shopping Cart</title>
+
+<div class="container-fluid mt-5">
+    <div class="row-col-1">
+        <div class="col">
+            <p class="fw-medium fs-3"> SHOPPING CART</p>
+        </div>
+        <hr>
+        @if(Model.Count==0)
+        {
+            //Cart Empty
+            <div class="col text-center my-5">
+                <p>Your Shopping Cart is empty</p>
+                <p>Add an item to continue</p>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-dark">HOME PAGE</a>
+            </div>
+        }
+        else
+        {
+            
+         decimal subtotal = 0;
+            
+            <div class="col table-responsive">
+                <table class="table align-middle">
+                    <tbody>
+                        <tr>
+                            <td>ITEM</td>
+                            <td></td>
+                            <td>SIZE</td>
+                            <td>UNITS</td>
+                            <td>PRICE</td>
+                            <td></td>
+                        </tr>
+                        @foreach (var c in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <img src="@c.Image.Substring(c.Image.IndexOf("wwwroot")).Replace("wwwroot","")" alt="Product image" class="cartimg" />
+                                </td>
+
+                                <td class="me-2 me-sm-0">@c.Name <span class="ms-1">(Product Id:@c.ProdId)</span> </td>
+                                <td style="white-space: nowrap;">@c.Size</td>
+                                <td>@c.Quantity</td>
+                                <td>Rs.@string.Format("{0:N2}", c.Price) 
+                                    @{
+                                        subtotal += c.Price * c.Quantity;
+                                    }
+                                </td>
+                                <td><a asp-controller="order" asp-action="removefromcart" asp-route-Id="@c.Id" style="color:black;">Remove</a> </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="col">
+                <h6 class="mb-0"><a href="index.html" class="text-body"><i class="bi bi-arrow-left me-2"></i>Continuee Shopping</a></h6>
+            </div>
+
+            <div class="col mt-5">
+                <div class="row justify-content-evenly">
+                    <div class="col-md-5 col-7 ">
+                        <p class="fw-semibold fs-5">SUMMARY:</p>
+                        <hr>
+                        <div class=" row  justify-content-between">
+                            <p class="fw-semibold col-auto  ">Subtotal:</p><p class="fw-normal col-auto">Rs.@string.Format("{0:N2}", subtotal)  </p>
+                        </div>
+                        <div class=" row  justify-content-between">
+                            <p class="fw-semibold col-auto  ">Shipping:</p><p class="fw-normal col-auto">Rs.200.00 </p>
+                        </div>
+                        <hr>
+                        <div class=" row  justify-content-between">
+                            @{
+                                decimal total = subtotal + 200;
+                            }
+                            <p class="fw-bold col-auto  ">TOTAL:</p><p class="fw-semibold col-auto">Rs.@string.Format("{0:N2}", total)  </p>
+                        </div>
+                        <hr>
+                        <div class=" row ">
+                            <div class="col">
+                                <a href="shippingform.html">
+                                    <button type="button" class="btn btn-dark btn-block w-50">
+                                        Checkout
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <hr>
+        }
+    </div>
+</div>

@@ -1,0 +1,114 @@
+.welcome-message {
+    background-color: #beee5f;
+    /* Light gray background */
+    color: #2b2a2a;
+    /* Dark text color */
+    padding: 10px 20px;
+    /* Padding inside the message */
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    /* Ensure the message stays on top */
+    box-shadow: 0 2px 5px rgba(121, 124, 155, 0.1);
+    /* Add a subtle shadow */
+}
+
+.form-group {
+    margin: 25px;
+    border: none;
+    display: flex;
+
+}
+
+.labelWithInput {
+    display: flex;
+    flex-direction: column;
+}
+
+.lbl {
+    margin-left: 15px;
+}
+
+.item {
+    width: 200px;
+    display: inline-block;
+    padding: 20px;
+    margin: 15px;
+}
+
+.btn {
+    height: 40px;
+    width: 100px;
+    background-color: rgb(93, 175, 243);
+    border-radius: 20px;
+    border: none;
+    margin-left: 40px;
+}
+
+.mobileInputWithLabel {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.inputMobile {
+    width: 200px;
+    height: 40px;
+}
+
+#mobileForm {
+    display: none;
+}
+
+#tabletForm {
+    display: none;
+}
+
+#desktopForm {
+    padding-top: 85px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+    /* Add your tablet styles here */
+    #tabletForm {
+        display: block;
+        margin-top: 80px;
+    }
+
+    #mobileForm {
+        display: none;
+
+    }
+
+    #desktopForm {
+        display: none;
+    }
+
+
+}
+
+/* Styles for mobile screens */
+/* Assuming mobile screens have a maximum width of 767px */
+@media only screen and (max-width: 767px) {
+
+    /* Add your mobile styles here */
+    #tabletForm {
+        display: none;
+    }
+
+    #mobileForm {
+        display: block;
+        margin-top: 80px;
+    }
+
+    #desktopForm {
+        display: none;
+    }
+
+
+}

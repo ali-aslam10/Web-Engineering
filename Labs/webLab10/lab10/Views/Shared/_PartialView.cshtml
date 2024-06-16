@@ -1,0 +1,47 @@
+﻿@using lab10.Models.ViewModel
+@model productOrder
+<div class="container mt-5 mb-3">
+    <div class="row justify-content-between">
+        <div class="col-auto">
+        <h5>Order Id#<span>@Model.order.Id</span></h5>
+        </div>
+         <div class="col-auto">
+        <h5>Created At:<span>@Model.order.createdat</span></h5>
+        </div>
+         <div class="col-auto">
+        <h5>Amount:<span>@Model.order.amount</span></h5>
+        </div>
+    </div>
+    
+</div>
+<div class="row">
+<div class="col table-responsive ">
+                <table class="table align-middle text-info border">
+                    <tbody>
+                        <tr>
+                            <td>ID</td>
+                            
+                            <td>NAME</td>
+                            <td>DESCRIPTION</td>
+                            <td>PRICE</td>
+                            
+                        </tr>
+                            @foreach (var c in Model.products)
+                            {
+                                <tr>
+                                    <td>
+                                        @c.Id
+                                    </td>
+
+                                    <td >@c.Name </td>
+                                    <td >@c.Description</td>
+                                    <td>@c.Price</td>
+                                </tr>
+                                    
+                            }
+
+                    </tbody>
+                </table>
+            </div>
+
+</div>
