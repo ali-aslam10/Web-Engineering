@@ -53,7 +53,7 @@ The semester project demonstrates the culmination of skills learned throughout t
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/web-engineering.git
+    git clone https://github.com/ali-aslam10/web-engineering.git
     ```
 
 2. **Navigate to the repository directory:**
